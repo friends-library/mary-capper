@@ -1,7 +1,11 @@
 == Chapter IV.
 
-Residence in London till 1788.--Removal to Birmingham.--Death of her mother in 1793.
+[.chapter-synopsis]
+* Residence in London till 1788
+* Removal to Birmingham
+* Death of her mother in 1793
 
+[.offset]
 +++[+++In the sketch which Mary Capper subsequently gave of her early life, she remarks:]
 
 From the time that I went to live with my brother William, in London,
@@ -24,10 +28,16 @@ was far more deeply felt than I can describe; and marvellous in my view,
 even to this day, was the settled, firm belief that I must follow on,
 to know the soul`'s salvation for myself; truly in a way that I knew not!
 
+[.offset]
 +++[+++In this time of deep affliction, she wrote, as follows, to her only sister:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 February 11th, 1783.
 
+[.salutation]
 My very Dear Rebecca,
 
 Must I forever give up the dear,
@@ -81,10 +91,18 @@ opening our eyes to the folly of trifling amusements,
 and to the vain fashions of the world.
 Farewell, my dear Rebecca! believe me, I never was more affectionately your sister,
 
+[.signed-section-signature]
 Mary.
 
+--
+
+[.offset]
 +++[+++The foregoing letter appears to have been answered by the following from her mother.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, February 15th, 1783.
 
 You have kept me in painful suspense for some time, by not answering a plain,
@@ -154,11 +172,15 @@ is of more esteem in that Society than twenty born and bred in it; but I have do
 farewell! may you be happy,
 whatever be allotted for the short remains of your mother`'s days!
 
+[.signed-section-signature]
 Rebecca Capper.
 
+[.postscript]
 One other word will drop from my pen, in spite of me.
 Return; return,
 my child! and I will receive you with more joy than I did the first moment I beheld you!
+
+--
 
 +++[+++Deeply was her mother to be felt for,
 and great was the anguish with which this letter was perused;
@@ -179,6 +201,9 @@ and He was pleased to speak peace to her afflicted soul; and in his own good tim
 to grant her the hundred-fold, even in this life.
 The following memoranda, and letter,
 will bear witness to the state of her mind at this period, and for some time after.]
+
+[.small-break]
+'''
 
 London, 6th of Ninth month, 1783.
 Praise the Lord, O! my soul, and be exceeding glad in the God of your salvation;
@@ -233,13 +258,18 @@ help me! leave me not to the delusions, the buffetings of my soul`'s enemy!
 Keep me in the patience, that I may watch your coming, and be found of you.
 You are worthy to be waited upon, O! Lord, my God! in you is my hope,
 and my trust forever!
-
 As rest to the weary traveller, so is true silence to the deeply exercised mind.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to W. B.
 
+[.signed-section-context-open]
 11th of Third month, 1785.
 
+[.salutation]
 Dear Friend,
 
 With propriety I believe I may use the term, dear friend,
@@ -283,16 +313,24 @@ and that tribulations were appointed to the faithful followers of a crucified Je
 
 With affectionate wishes for your prosperity in the Truth,
 
+[.signed-section-closing]
 I am, sincerely,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.offset]
 +++[+++The following brief remark is among her memoranda:]
 
 On the 2nd of the fourth month, 1785, my dear father died without my seeing him!
 I heard that he enquired with affection for a pair of garters which I had knit for him,
 and that he spoke with tenderness of me.
 O! this was like precious balm!
+
+[.small-break]
+'''
 
 +++[+++No special mention is made of a change in her mother`'s feelings towards her,
 but there is reason to believe that she gradually, from the time of her widowhood,
@@ -305,6 +343,9 @@ with the Society of Friends about the year 1785,
 also that she spoke as a minister in their religious meetings soon after that event.
 With respect to the latter circumstance, she writes:]
 
+[.small-break]
+'''
+
 It sometimes arose in my mind,
 that possibly I might have to tell unto others how I had been taught,
 and kept from the broad way of destruction; and a few words arising,
@@ -314,13 +355,21 @@ and thus I was led on, from time to time, not knowing but each time might be the
 About 1788, I came to reside with my dear mother, at Birmingham,
 and she did not object to my regularly attending Friends`' meetings.
 
+[.small-break]
+'''
+
 +++[+++The occasion of her leaving London, and going to reside with her mother,
 appears to have been the indisposition of the latter,
 and is briefly alluded to in the following extract
 of a letter to her from her brother William.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 17th of February, 1788.
 
+[.salutation]
 My very Dear Sister,
 
 I cannot delay writing to you,
@@ -338,9 +387,13 @@ and tell her I am happy that I had such a sister as you, to send to her consolat
 Remember me in affection to brother Samuel, to his wife, and to George.
 I am, dear Mary,
 
+[.signed-section-closing]
 Your truly affectionate brother,
 
+[.signed-section-signature]
 William Capper.
+
+--
 
 +++[+++Though very little allusion to the circumstance is found in any of Mary Capper`'s papers,
 it seems scarcely right wholly to omit the mention of a yet more
@@ -361,8 +414,13 @@ and she could never afterwards entertain the prospect of matrimony.
 The following extract from a letter of her mother`'s,
 will show how changed were her feelings towards Mary, and towards Jasper and his wife.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, June 16th, 1788.
 
+[.salutation]
 My Dear Mary,
 
 In answer to your last, I feel truly concerned that poor Smallwood^
@@ -390,15 +448,22 @@ footnote:[The husband of her sister Rebecca.]
 was here on Sunday; he says Rebecca is well.
 Believe me, dear Mary,
 
+[.signed-section-closing]
 Your affectionate mother,
 
+[.salutation]
 Rebecca Capper.
+
+--
 
 +++[+++Mary Capper does not appear to have kept a journal
 regularly till after the death of her mother,
 but a few remarks were penned occasionally;
 and sometimes the petitions of an exercised soul.
 The following will, it is believed, be acceptable to the reader.]
+
+[.small-break]
+'''
 
 10th of Sixth month, 1789.
 My soul! wait upon God;
@@ -457,12 +522,20 @@ Gracious,
 holy Father! open the blind eye! unstop the deaf ear! that we may
 see and acknowledge the mystery of your condescending love!
 
+[.small-break]
+'''
+
 +++[+++Towards the end of the year 1793,
 Mary Capper appears to have been absent from Birmingham, attending upon a sick friend;
 during this period she received the following letters from her mother:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, 18th September, 1793.
 
+[.salutation]
 My Dear Mary,
 
 I hope they will not remove the young woman till
@@ -478,14 +551,21 @@ Farewell, my dear Mary!
 I shall be truly glad to receive you, when it is proper for you to come home;
 but I am not impatient.
 
+[.signed-section-closing]
 Believe me, your sincerely affectionate mother,
 
+[.signed-section-signature]
 Rebecca Capper.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Colmore Row, 23rd September, 1793.
 
+[.salutation]
 My Dear Mary,
 
 I am well pleased that you may leave Park Gate, with safety to your patient.
@@ -498,9 +578,13 @@ I was out only once yesterday, for the weather was rainy, and the wind very cold
 I was very much gratified, and I hope edified, by a discourse on the words of St. James,
 "`Let patience have her perfect work.`"
 
+[.signed-section-closing]
 I am, dear Mary, your truly affectionate mother,
 
+[.signed-section-signature]
 Rebecca Capper.
+
+--
 
 +++[+++Rebecca Capper died in the twelfth month, 1793;
 but no particulars are known of the illness that terminated her life,

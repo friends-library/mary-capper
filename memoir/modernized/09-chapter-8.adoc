@@ -1,11 +1,17 @@
 == Chapter VIII.
 
-Removal from Leominster and re-settlement at Birmingham--Death
-of her brothers William and Jasper--Religious services,
-etc. to the end of the year 1820.
+[.chapter-synopsis]
+* Removal from Leominster and re-settlement at Birmingham
+* Death of her brothers William and Jasper
+* Religious services, etc. to the end of the year 1820
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Capper.
 
+[.signed-section-context-open]
 Leominster, First month 23rd, 1815.
 
 When I can look into my own heart,
@@ -27,8 +33,12 @@ your justly valued, much loved Christian adviser having filled his measure;
 his pilgrimage ended, he has left an example to those who loved him,
 to follow him as he followed Christ.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.offset]
 +++[+++She this year again attended the yearly meeting,
 concerning which she made the following memoranda:]
 
@@ -92,12 +102,19 @@ and that as much as in us lies, we may encourage them in that which is good.
 The clerk, in a very feeling manner, read the concluding minute;
 and after a silent pause, we separated.
 
+[.small-break]
+'''
+
 +++[+++The mind of Mary Capper appears to have been frequently
 much exercised on behalf of that class of persons,
 who are employed as haymakers, etc. in the neighbourhood of London;
 and at this period she expressed her interest for them in the following address,
 which she had printed and circulated among them.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 An affectionate Address to those who are employed in harvest work, 1815.
 
 How rich, how beautiful are the fields! how promising are the crops,
@@ -150,6 +167,9 @@ that you learn not these things from those who are older than you,
 and ought to teach you better things.
 Love one another, be gentle, kind and good; then nothing can harm you.
 
+--
+
+[.offset]
 +++[+++Mary Capper again attended the yearly meeting in 1816; her diary thus continues.]
 
 Fifth month 20th. The yearly meeting of ministers and elders met;
@@ -250,11 +270,17 @@ was to be found among them.
 I left Leominster in a low frame of spirit,
 though I did not feel condemnation for anything that I had done, or willfully left undone.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend in America.
 
+[.signed-section-context-open]
 Five Ways, Islington, 9th of Eighth month, 1816.
 
-Dear J.
+[.salutation]
+Dear J.,
 
 I have lived many years, and have seen many changes, and have known privations,
 by a final separation as to sweet interaction in this world from those most dear unto me;
@@ -278,12 +304,21 @@ You have kind, affectionate counsellors around you, who, I doubt not,
 will aid you to follow that which is right,
 and strengthen the witness for good in your heart.
 
+[.signed-section-closing]
 I subscribe your sincere affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, 1st of First month, 1817.
 
 To see you again among us, kept by the power of heavenly goodness,
@@ -305,12 +340,21 @@ I crave the stability, the encouragement of all who profess and have tasted,
 and spiritually seen that the Lord is good; that nothing may dismay or harm those,
 is the present fervent desire of your affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Capper.
 
+[.signed-section-context-open]
 Birmingham, Second month 11th, 1817.
 
+[.salutation]
 My dear Niece,
 
 I was affected by the account of your dear father`'s sufferings,
@@ -332,14 +376,24 @@ and an awful reverence for the watchful Shepherd of souls;
 as then and now working together for good; even to the end designed,
 of mercifully redeeming, fitting and preparing for a mansion of purity and blessedness.
 
+[.signed-section-closing]
 With a large portion of love to you all, your aunt,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend in America.
 
+[.signed-section-context-open]
 Birmingham, Second month 27th, 1817.
 
+[.salutation]
 Dear +++_______+++,
 
 I am now favoured with apartments where I retire in sweet quietness,
@@ -392,15 +446,22 @@ and as far as my capacity seems to go, I feel thankful for the present,
 and desirous to leave the future unfoldings,
 to the great Hand that has graciously and in marvellous mercy, led me hitherto.
 
+[.signed-section-closing]
 Very affectionately, your friend,
 
+[.signed-section-signature]
 Mary Capper.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, Fourth month 18th, 1817.
 
-Dear M. S.
+[.salutation]
+Dear M. S.,
 
 Doubtless you have had accounts of my weak state of health;
 I am indeed again reduced very low, but I see it is my place to be quiet and patient,
@@ -417,11 +478,16 @@ and opens the way of truth.
 My voice remains suspended, so that it is a fatigue to make myself understood.
 I have the great privilege of a quiet, pleasant, little room, where I am much alone.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, Fourth month 26th, 1817.
 
-Dear W. F.
+[.salutation]
+Dear W. F.,
 
 Though I am now in as poor and weak a state as you have heretofore seen me in;
 yet being favoured to feel some liveliness of spirit,
@@ -440,8 +506,14 @@ and you know these cannot be bought too dear; in fact,
 what has the most favoured servant to give, which has not first been received?
 The best enjoyment of every good gift is a grateful sense of the bounty of the Giver.
 
+--
+
+[.offset]
 +++[+++Mary Capper did not attend the yearly meeting,
 but her sister Anne Capper sent her the following particulars.]
+
+[.embedded-content-document.letter]
+--
 
 Fifth month 11th. First-day.
 We had a precious company to dine; our dear brother and sister John Capper called,
@@ -492,9 +564,15 @@ humble gratitude I perceive the increase of his faith and love.
 Surely goodness and mercy have followed him all his
 days! of this I also have largely partaken.
 
+--
+
 +++[+++Rebecca Bevan also sent an account of the daily transactions of the women`'s meeting,
 to which she subjoined the following; her last address to her aunt.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tottenham, 1817.
 
 I have endeavoured, my dear aunt,
@@ -516,19 +594,29 @@ and our two youngest have the hooping cough.
 I believe the rest have all had it, and it is not very violent.
 My father is but poorly.
 
+[.signed-section-closing]
 Your very affectionate niece,
 
+[.signed-section-signature]
 Rebecca Bevan.
+
+--
 
 +++[+++Rebecca Bevan died the 9th of the eleventh month of this year,
 in the faith and hope of a humble Christian,
 having endured a very suffering illness with much patience.^
 footnote:[See Piety Promoted, Part XI. page 189.]]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to John and Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Sixth month 7th, 1817.
 
+[.salutation]
 My dear exercised Friends,
 
 I seem as though I could not well forbear to communicate
@@ -556,12 +644,21 @@ nevertheless, my precious friends, look forward--the end will crown all;
 because you do know in whom you have believed, and because your Redeemer lives,
 you shall live also,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. C.
 
+[.signed-section-context-open]
 Alder House, Tenth month 10th, 1817.
 
+[.salutation]
 My dear Friend,
 
 You can better think than I tell, the feelings of my heart,
@@ -591,14 +688,24 @@ Still it is not my own little apartment, nor so much in the way of seeing you,
 as a part of our family connection,
 and hearing almost every day or two some account of my dear afflicted relatives.
 
+[.signed-section-closing]
 My love to all,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend in America.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 11th, 1817.
 
+[.salutation]
 Dear J.,
 
 Whether I may write to you, or from concurring circumstances,
@@ -657,12 +764,21 @@ I have written you a long letter,
 and hope it will convey an outward sign of the sincere and dear love I bear to you,
 as your friend and fellow traveller to a better world than this.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to her brother Jasper Capper.
 
+[.signed-section-context-open]
 Birmingham, Second month 7th, 1818.
 
+[.salutation]
 My dear Brother,
 
 Often in my solitude I think of you; my heart seems increasingly bound to you,
@@ -684,12 +800,21 @@ No skilful alchemist can so separate the precious from the vile!
 My beloved brother, may we be more, and yet more,
 favoured with joy and peace in believing, is the prayer of your sister,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Cadbury
 
+[.signed-section-context-open]
 Worcester, Fourth month 27th, 1818.
 
+[.salutation]
 My very dear Friends,
 
 I don`'t know how lean sufficiently prize the privilege of having your kind regard,
@@ -713,7 +838,10 @@ and herein I trust we have sweet fellowship one with the other,
 though we do not often express it in words, and we may be personally separated;
 but there is a precious union of spirits, sweeter to my mind than worldly possessions.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Fifth month 18th. Yearly meeting of ministers and elders.
 Some of the old standard bearers still remain.
@@ -786,10 +914,16 @@ and alive to a sense of the condescending goodness of our Heavenly Father.
 which no description can fully convey to those who have never known its power.
 No words can so fully calm and satisfy the soul!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Cadbury
 
+[.signed-section-context-open]
 Stoke Newington, Seventh month 6th, 1818.
 
+[.salutation]
 My dear Friends,
 
 Your continued kindness towards me, raises a very grateful feeling in my mind.
@@ -809,12 +943,24 @@ Our hope, our confidence is anchored upon the Lord of life and glory.
 O! this is precious, and calls for the deepest sense, and the acknowledgment,
 of condescending goodness and mercy toward the children of men.
 
-Affectionately, Mary Capper.
+[.signed-section-closing]
+Affectionately,
 
+[.signed-section-signature]
+Mary Capper.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, Ninth month 18th, 1818.
 
+[.salutation]
 My dear Friends,
 
 I came from Stoke Newington yesterday;
@@ -839,9 +985,13 @@ if I did not apprehend that I am desirous to be just where I think I ought to be
 although very little, if any obvious benefit arises from my small services;
 I do not so much look at that as at the gentle pointings and openings in my own mind.
 
+[.signed-section-closing]
 Affectionately I subscribe, your friend,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Ninth month.
 I have received an account of the death of dear Jesse Cadbury,
@@ -913,8 +1063,13 @@ That which unites sojourners here in one desire to
 obtain the blessing of the promised land,
 was, in degree, felt from house to house.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Capper.
 
+[.signed-section-context-open]
 Worcester, First month 18th, 1819.
 
 It was very kind of your father, in his almost solitary sitting,
@@ -933,12 +1088,21 @@ the happy culture of Divine grace brings first the blade; and so, if not untimel
 comes the ripened crop; but the husbandman, in nature`'s field, has long patience,
 and he is not dismayed at every dark and gloomy day.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Brother Jasper and His Family
 
+[.signed-section-context-open]
 Birmingham, Fifth month 1st, 1819.
 
+[.salutation]
 My dear brother Jasper, etc.
 
 To be hasty in feeling disappointments, and not prompt to acknowledge gratifications,
@@ -986,12 +1150,21 @@ which does as much execution as silver trumpets and battering rams.
 In most cordial, sweet affection towards every one of you, including the lovely children,
 I subscribe your strongly attached sister and aunt.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John and Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Tenth month, 1819.
 
+[.salutation]
 My endeared Friends,
 
 No human language can, I believe, fully set forth, that quickening, living virtue,
@@ -1032,10 +1205,18 @@ even in our weak state, we have access to God.
 
 Farewell, my dear Christian friends! accept the love of your attached friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans of Warwick.
 
+[.salutation]
 My dear Friend,
 
 It is a reviving cordial to the Christian traveller,
@@ -1062,10 +1243,18 @@ Long as I have been engaged in this way, this is the first movement I have made 
 and I seem like a very child, in need of help and direction.
 Let me hear from you soon.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Eleventh month 24th, 1819.
 
+[.salutation]
 Dear Friend,
 
 How precious is it to feel the unity of the Spirit
@@ -1090,14 +1279,24 @@ I have not a decided sight, whether I had best move with or without a companion;
 this I trust will rightly open in due time.
 I feel satisfied the delay is no hurt to me; and in all things, there is instruction.
 
+[.signed-section-closing]
 In dear affection,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Hannah Evans to Mary Capper.
 
+[.signed-section-context-open]
 Eleventh month 27th, 1819.
 
+[.salutation]
 My dear Friend,
 
 I received yours, and am pleased my last met your approbation.
@@ -1120,10 +1319,18 @@ and that it may please your Divine Master to "`send you help from his sanctuary,
 and strengthen you out of Zion,`" was the petition of my spirit this morning,
 before I left my pillow.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Mary Capper to Katharine Capper.
 
+[.signed-section-context-open]
 Dale End, Eleventh month 29th, 1819.
 
+[.salutation]
 My dear Niece, etc.,
 
 The communications handed to me, one day last week, have not failed to help and cheer me.
@@ -1144,10 +1351,18 @@ we are led, by the same Hand, in the path of subjection.
 I hope we shall often think of one another, when duties, differing in kind,
 call for resignation and endurance.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to Hannah Evans.
 
+[.signed-section-context-open]
 Twelfth month 7th, 1819.
 
+[.salutation]
 Dear Friend,
 
 Very cordial is your letter!
@@ -1169,14 +1384,24 @@ and above all in Christian sympathy; and how very few feelingly know what this i
 O! how precious to the poor exercised mind!
 I have not heard of anyone to accompany me; but that I leave, and subscribe,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to the Family at Stoke Newington
 
+[.signed-section-context-open]
 Warwick, Twelfth month 18th, 1819.
 
-My dear,
-loved Relatives,--I am desirous to relieve your affectionate solicitude by informing you,
+[.salutation]
+My dear, loved Relatives,
+
+I am desirous to relieve your affectionate solicitude by informing you,
 that I am cared for with all possible tenderness;
 and my weak body has borne exposure to cold and fatigue without much suffering.
 How shall I fully set forth that condescending,
@@ -1209,12 +1434,19 @@ How marvellous is the love of God! how it would gather all!
 With earnest solicitude that we may be kept lowly and patient in the day of trial,
 I very affectionately subscribe, your closely attached relative,
 
+[.signed-section-signature]
 Mary Capper.
 
-The following account of the visit to the female prisoners was afterwards sent,
-anonymously, to Mary Capper; it was written by a person who was present on that occasion,
-in a letter to a friend of hers.
+--
 
++++[+++The following account of the visit to the female prisoners was afterwards sent,
+anonymously, to Mary Capper; it was written by a person who was present on that occasion,
+in a letter to a friend of hers.]
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Visit paid by a female Friend to Warwick County Jail.
 
 December, 1819.
@@ -1276,10 +1508,18 @@ The individual spoke for an hour and a half, so you will readily believe,
 that this is only a very small part of what she uttered,
 but I have endeavoured to recollect the heads of the exhortation.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to Hannah Evans.
 
+[.signed-section-context-open]
 Coventry, Twelfth month 23rd, 1819.
 
+[.salutation]
 My dear Friend,
 
 We parted peacefully; may I not say sweetly?
@@ -1299,14 +1539,24 @@ again and again showing me what is in the human heart,
 and teaching me that the sanctifying power of Christ, revealed by the Holy Spirit,
 believed in and obeyed, is the only safe armour of the Christian.
 
+[.signed-section-closing]
 I subscribe, affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Foshil Lodge, Twelfth month 28th, 1819.
 
+[.salutation]
 My kind Friend,
 
 Your sympathy is cordial; I have had my plunges and strippings,
@@ -1349,12 +1599,21 @@ are gently loosening one by one; and my spirit, in some favoured moments,
 aspires to a more perfect union.
 Farewell, my much-loved friend, I subscribe affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Family at Stoke Newington.
 
+[.signed-section-context-open]
 Twelfth month 29th. 1819.
 
+[.salutation]
 My dear Mourning Relatives,
 
 I am much affected by the intelligence of dear Katharine`'s letter.
@@ -1377,13 +1636,21 @@ Long have we known him as disclaiming every rag of self-righteousness.
 How often was his spirit broken and humbled!
 It is precious to remember these seasons.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. C.
 
+[.signed-section-context-open]
 Warwick, First month 7th, 1820.
 
-I HAVE had no very late intelligence from any of my dear sorrowing relatives.
+I have had no very late intelligence from any of my dear sorrowing relatives.
 Much I think of them, but our mourning is sweetened by hope;
 how widely different to a gloomy spirit of sorrow!
 
@@ -1402,12 +1669,21 @@ It is very sweet to reflect,
 that my present engagements were known and approved by my beloved brother,
 at a time when his spirit was so nigh to the haven of rest and of purity.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Rebecca Lamley.
 
+[.signed-section-context-open]
 Birmingham, Second month 14th, 1820.
 
+[.salutation]
 My dear Friend,
 
 With tender love I remember you, and think of your lowly diffident mind.
@@ -1424,12 +1700,21 @@ and deliverance from those things that grieve the Holy Spirit.
 Take courage, I again say, my tender friend, and give no place to distrust.
 I subscribe, with endeared love, your fellow traveller and friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Second month 15th, 1820.
 
+[.salutation]
 My dear Friend,
 
 I hope it may not be too much to say that the union
@@ -1460,14 +1745,22 @@ Do not, my dear Christian friend! if you can avoid it,
 allow yourself as it were to catch at discouragements when they present inwardly.
 You know what I think on this subject.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Third month 7th, 1820.
 
-I begin to think the time long since I received your "`multum
-in parvo,`" but I am satisfied that we are united in spirit,
+I begin to think the time long since I received your __"`multum
+in parvo,`"__ but I am satisfied that we are united in spirit,
 even though mountains should rise up between us.
 How sweet and cordial it will be to my feelings, to welcome you under my roof,
 is not for me to express.
@@ -1501,9 +1794,13 @@ who are hastening to the close of their earthly pilgrimage,
 and who wish peace, with joy unspeakable,
 to those who may fill up the places of the faithful.
 
+[.signed-section-closing]
 Farewell, affectionately,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 +++[+++In this visit, Mary Capper was accompanied by her friend Hannah Evans,
 from whose memoranda the following extracts are taken.]
@@ -1561,8 +1858,13 @@ and returned to Birmingham, in the enjoyment of sweet peace.
 21st. We parted under a sense of that uniting love which remains to be a badge of discipleship,
 and I returned to my own habitation with thankfulness.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Polesworth, Ninth month 5th, 1820.
 
 I am low, in mind and body, yet I dare not let go my confidence,
@@ -1582,11 +1884,18 @@ I should prefer, if you will indulge me,
 that we rarely advert to anything merely personal.
 I subscribe, in a very feeling sense of your love.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
 +++[+++The following is a memoranda of a religious visit in Herefordshire and Worcestershire.]
+
+[.small-break]
+'''
 
 Ninth month 13th. Our monthly meeting at Birmingham.
 The sympathy and unity expressed, and the solemnity that spread over the meeting,
@@ -1623,8 +1932,13 @@ and Roger Merrick his father-in-law, etc.
 26th. We visited Roger Merrick; the house of mourning and the children of affliction,
 often afford lessons of deep instruction, and I thought it was so, on this occasion.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Ninth month 28th, 1820.
 
 Your cordial sympathy and encouragement are acceptable.
@@ -1634,7 +1948,10 @@ from there comes the true union of spirit, which subsists through all low times;
 enduring all that may be allotted; trusting and believing that we shall not be forsaken.
 The designed end of our trying times doubtless is, that we may be a praying people.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Tenth month 6th. J. Newman kindly conveyed us in
 his carriage to visit a family at a distance,
@@ -1653,11 +1970,19 @@ sweet spirited wife, I had in years past some acquaintance.
 It is precious to find, that unity in the one Spirit, continues unchanged;
 we had a little sweet converse, and thought the time came too quickly for our separation.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Hereford, Tenth month 18th, 1820.
 
-My dear Friend,--I desire to be really thankful, that day by day,
+[.salutation]
+My dear Friend,
+
+I desire to be really thankful, that day by day,
 my mind is measurably stayed upon the requirings of the day,
 with little of unavailing anxiety.
 Many times I do think myself a poor, weak child, learning to step alone;
@@ -1685,7 +2010,10 @@ but simply to follow, as my heavenly guide leads the way,
 and mercifully keeps me childlike enough to obey.
 Farewell,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 19th. Two very serious young women took tea with us; they had been at our meeting,
 and they appeared to be pleased with the Scripture reading, etc. in the evening,
@@ -1722,10 +2050,16 @@ but a soothing calm blunted the keen edge of pain; for we feel a humble confiden
 that our spirits, whether absent or present in person,
 are anchored on the immovable Rock, the soul`'s best hope.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 8th, 1820.
 
+[.salutation]
 My vert dear Friend,
 
 The visit of my precious relatives has been short,
@@ -1737,7 +2071,10 @@ Her testimony to the power of Jesus the Redeemer was very impressive and excelle
 My mind now seems bound to pursue my own uncompleted concerns, as soon as I well can.
 I think of going first to Bromyard.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 11th. A kind friend accompanied me to Bromyard.
 
@@ -1753,10 +2090,16 @@ and to induce a steady retirement to the gift of grace in the soul.
 This must be left to the Great Physician.
 Came to Leominster in the evening.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Eleventh month 14th, 1820.
 
+[.salutation]
 My kind and dear Friend,
 
 I now address you from Leominster; a place which revives many an interesting scene,
@@ -1790,9 +2133,13 @@ and of the renewed merciful calls of our heavenly Father.
 I have been thus particular in my detail, in order to set forth how good the Lord is,
 and that we should rely upon him, in all and through all.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 17th. Mary Watson, from Ireland, travelling through our land on a religious visit,
 accompanied by her daughter Jane, wished to hold a meeting here this morning;

@@ -1,12 +1,19 @@
 == Chapter XI.
 
-Account of her last journey with certificate,
-as a minister.--Concluding extracts from her diary.
+[.chapter-synopsis]
+* Account of her last journey with certificate, as a minister
+* Concluding extracts from her diary.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Bromyard, Second month 11th, 1825.
 
+[.salutation]
 My much loved Friend,
 
 Thou knowest that I may be reckoned among those who
@@ -35,12 +42,21 @@ My long-suspended voice was restored, when on my knees, in the act of prayer.
 I remain but weakly.
 Farewell, affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Cadbury
 
+[.signed-section-context-open]
 Second month 17th. 1825.
 
+[.salutation]
 My dear Friends,
 
 I came safely to Leominster, in improved health, though still in a weak state,
@@ -64,12 +80,21 @@ prompt and useful in the station where his lot was cast; unassuming and exemplar
 `'Tis consoling to those who loved him to contemplate his meridian sun thus set in brightness.
 My love is to you all, affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Birmingham, Third month 23rd, 1825.
 
+[.salutation]
 My kind Friend,
 
 I think we parted under reciprocal feelings;
@@ -88,12 +113,21 @@ though surrounded by smoke, dirt and noise without;
 but there is a favoured retreat wherein outward disturbances cannot enter.
 This is the secret place, where my spirit strives to enter and abide.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Fifth month 2nd, 1825.
 
+[.salutation]
 My beloved Friend,
 
 My appetite and strength continue very weak; but what shall I say of the mercy,
@@ -108,14 +142,24 @@ My dear love to thy sister, and to your faithful Mary.
 Hannah Simms is a great blessing to me;
 I consider her as the servant granted to my fervent prayers.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Fifth month 12th, 1825.
 
+[.salutation]
 My tender Friend,
 
 I have been once out, but the exertion is rather too much at present,
@@ -125,14 +169,25 @@ as I wish as little trouble as may be to those who survive me.
 I consider my present restoration among the Lord`'s gracious dealings toward me;
 and I am content; yea!
 I ought to be very grateful, very humble, and resigned either to life or death.
+
+[.signed-section-closing]
 Thy affectionate,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Birmingham, Fifth month 17th, 1825.
 
+[.salutation]
 My dear Friend,
 
 Among other kind friends,
@@ -157,13 +212,21 @@ The Almighty Power can work this subjection in the heart;
 for marvellous is the power of redeeming Love!
 Seek after it, my dear friend.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 7th, 1825.
 
-I HAVE but little to say of my movements; my secular concerns are few.
+I have but little to say of my movements; my secular concerns are few.
 I have food and raiment convenient for me.
 O! I have comforts befitting old age; a cheerful fire, a good bed,
 etc. all that my drooping nature wants!
@@ -176,12 +239,21 @@ However small, if any, the service, peace and love have been the unmerited, free
 and again I retire, as for an uncertain period, to wait, and to be ready,
 come whatever may come.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 18th, 1825.
 
+[.salutation]
 My beloved Friend,
 
 Ere thou receivest this,
@@ -204,10 +276,18 @@ where something of self may be intermingled, sometimes I have thought more avail
 
 In heart-humbling feelings on my own account, and endearing love to thee, I subscribe,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Third month 7th, 1826.
 
 My affectionately and truly-interested fellow traveller in a path hidden from human view,
@@ -236,10 +316,18 @@ This Mercy follows us still; it is our hope and stay to this day; our all in all
 as friends have expressed unity with my prospect; so far, my spirit seems relieved.
 In precious fellowship with thee, my dear friend, farewell!
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Third month 11th, 1826.
 
 Increase of years wears down the powers of nature,
@@ -270,13 +358,24 @@ in my own will, to make a change?
 Such things as are not to my mind, I desire my mind may be brought to bear,
 and that I may be thankful.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Birmingham, Third month 26th, 1826.
 
-My endeared Friend,--It is a precious privilege to have spiritual unity,
+[.salutation]
+My endeared Friend,
+
+It is a precious privilege to have spiritual unity,
 and secret fellowship, in hidden trials and provings of faith.
 Christian pilgrims have their sufferings;
 how else should they be disciples of a crucified Lord?
@@ -288,7 +387,10 @@ Every tender feeling within us may compassionate the various sufferers of this d
 the monied men, the manufacturer, and the labourer,
 are all involved in the present far-spreading dismay.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 1826+++.+++ Fourth month 15th. Arrived at Sarah Fox`'s, Nottingham.
 
@@ -344,11 +446,16 @@ but the want of united diligence, and inward watchfulness, for the arising of li
 of life, and of prayer, is surely a hindrance from that approach unto God,
 which the quickened soul thirsts after.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. L.
 
+[.signed-section-context-open]
 Fifth month, 1826.
 
-"`O! THOU that hearest prayer, unto thee shall all flesh come!`"
+"`O! Thou that hearest prayer, unto thee shall all flesh come!`"
 All have need of prayer.
 "`If my people, which are called by my name, shall humble themselves, and pray,
 and seek my face, I will hear from heaven and forgive!`"
@@ -358,7 +465,10 @@ He enjoined his disciples, and all that believe in, and follow Him, to watch and
 that they enter not into temptation.
 The Spirit of the Lord teacheth us to pray as we ought, though words may not be spoken.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Fifth month 7th. First-day.
 At both meetings.
@@ -559,8 +669,6 @@ this must be left to a superior controlling Power.
 
 14th. I think I have endeavoured to fill up my little services here,
 and that I may be favoured to depart in peace; a reward sufficient to satisfy.
-
-$$.$$
 
 15th. My kind friends conveyed me to Chesterfield,
 and left me under the kind care of A. Storrs.
@@ -915,9 +1023,10 @@ were in measure set forth.
 After parting from my friends in tenderness of spirit, I came to Coventry,
 having accomplished my engagement.
 
-* * *
+[.asterism]
+'''
 
-Thus closed the labours of this devoted servant,
++++[+++Thus closed the labours of this devoted servant,
 as far as regards travelling in the work of the ministry;
 and here also ends her own diary; but,
 as long as she was able to pen an occasional memorandum,
@@ -933,6 +1042,10 @@ The first extract is from a letter to one of her nieces,
 written before she reached her home, from the journey,
 the particulars of which have just been given.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Warwick, Ninth month 24th, 1826.
 
 Thou mayst surely think that I have lingered on my way, when thou seest this date;
@@ -947,4 +1060,7 @@ are the sweet reward of this little dedication.
 It is enough!
 I ask no more.
 
+[.signed-section-signature]
 Mary Capper.
+
+--

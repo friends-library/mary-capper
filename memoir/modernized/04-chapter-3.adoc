@@ -1,12 +1,16 @@
 == Chapter III.
 
-Return home in 1777, and memoranda during her slay there.--Removal to Wilmington,
-and journal while there in 1781 and 1782.
+[.chapter-synopsis]
+* Return home in 1777, and memoranda during her slay there
+* Removal to Wilmington, and journal while there in 1781 and 1782
 
 +++[+++The return of Mary Capper to the paternal dwelling,
 was the occasion of much trial and difficulty both
 to herself and to her affectionate parents.
 She thus writes, respecting this interesting period of her life:]
+
+[.small-break]
+'''
 
 It was after my return from France that an obvious change took place in my manners, etc.,
 so as to attract observation.
@@ -20,6 +24,9 @@ but my dear mother`'s disappointment was keen, when, in process of time,
 I felt that I could not conform to what I had been taught was necessary to salvation;
 and kept much retired, without attending any place of worship.
 
+[.small-break]
+'''
+
 +++[+++About the end of the year 1777, her brother Jasper joined the Society of Friends,
 and in 1778, he married Anne Fry, the daughter of John Fry, of Whitechapel.
 In regard to these important changes,
@@ -31,6 +38,9 @@ but the few which have been preserved, and which are here presented,
 give proof of the continued seriousness of her mind, and of her desire,
 under a complication of difficulties and disadvantages,
 to follow on to know the Lord for herself.]
+
+[.small-break]
+'''
 
 September 8th, 1779.
 If men are born merely to live, or rather breathe, a few short years,
@@ -82,9 +92,15 @@ I have tasted of your lovingkindness, and my soul aspires to the fruition of joy
 at your right hand forever.
 Amen.
 
+[.small-break]
+'''
+
 +++[+++Soon after making these memorandums, and while in a state of much conflict of mind,
 Mary Capper was consigned by her parents to the care of her brother James.
 Concerning this event she thus writes:]
+
+[.small-break]
+'''
 
 I went to Wilmington, in Sussex,
 my dear brother James being married and fixed as Rector there.
@@ -114,6 +130,7 @@ The best of teachers was pleased to calm and quiet my mind on this important sub
 and I no more repeated the ceremony;
 but these convictions and changes were no light matters to me.
 
+[.offset]
 +++[+++Upon leaving home for Wilmington, Mary Capper resumed her journal,
 from which the following extracts are given:]
 
@@ -286,6 +303,9 @@ only permitted at seasons, to encourage our hope and strengthen our faith.
 Trials are necessary, that by faith and patience,
 we may obtain the prize of our high calling.
 
+[.small-break]
+'''
+
 +++[+++Although Mary Capper does not seem to have been
 fully aware of the cause of her frequent depression,
 during her mother`'s stay at Wilmington,
@@ -296,8 +316,13 @@ and to which her own convictions powerfully attracted her.
 Her father however made affectionate mention of Jasper in writing to William,
 as appears by the following extract of a letter to him:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, September 9th, 1782.
 
+[.salutation]
 My Dear William,
 
 I cannot say but John`'s letter gave me some pangs for your disappointment,
@@ -312,10 +337,15 @@ Jasper may be of service to you,
 and it gives me pleasure to find you speak so kindly of his brotherly love, etc.
 True affection, love, and blessings to you all, from, dear William,
 
+[.signed-section-closing]
 Your most affectionate father,
 
+[.signed-section-signature]
 William Capper.
 
+--
+
+[.offset]
 +++[+++In her journal Mary Capper continues:]
 
 13th. "`Forsake all, and you shall find all; leave your inordinate desires,

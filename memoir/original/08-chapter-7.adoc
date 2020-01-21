@@ -1,7 +1,10 @@
 == Chapter VII.
 
-Departure from Trosnant.--Settlement with Mary Lewis, at Leominster.--Visits to London,
-etc.--Death of Mary Lewis.
+[.chapter-synopsis]
+* Departure from Trosnant
+* Settlement with Mary Lewis, at Leominster
+* Visits to London, etc.
+* Death of Mary Lewis
 
 1811+++.+++ First month 30th. Our kind friend S. Waring arrived here,
 for the purpose of once more lending her aid in this spot,
@@ -50,8 +53,12 @@ no more to meet on earth; for in a few hours, he quietly passed from time to ete
 
 Fifth month 18th. I arrived in Gracechurch-street, London.
 
+[.offset]
 +++[+++The following are extracts from an account of the yearly meeting,
 etc. sent by Mary Capper to her friend Mary Lewis.]
+
+[.embedded-content-document.letter]
+--
 
 Fifth month 20th. My dear friend;
 it is my desire to transmit a little to thee of that which interests us here,
@@ -168,9 +175,13 @@ under a desire to be more fully what I should be; more meek and gentle,
 and more patient under little trials; there is more in this than we are always aware of,
 and I think I never felt it more forcibly than now.
 
+[.signed-section-closing]
 With dear love, affectionately,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 31st. I was witness to a very awful scene; the sudden seizure, in Bishopsgate street,
 of Joseph Gibbins.
@@ -193,11 +204,17 @@ where I am tenderly and affectionately attended by my nieces;
 very sweet it is to be so cared for, in a time of great weakness.
 My powers of voice are still suspended, but I am mercifully kept from anxiety.
 
+[.offset]
 +++[+++During her tarriance at Stoke Newington,
 Mary Capper addressed the following letter to her brother.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Seventh month, 1811.
 
+[.salutation]
 My dear brother Jasper,
 
 It is difficult for me to speak, but as it particularly impresses my mind,
@@ -253,9 +270,13 @@ the redeeming power of a Saviour`'s love.
 Often the secret language of my heart is, "`a Redeemer, or I perish! a Saviour,
 or I die!`"
 
+[.signed-section-closing]
 With heartfelt affection, I subscribe, thy sister,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Ninth month.
 After spending a considerable time among my relatives, from all of whom,
@@ -289,12 +310,18 @@ in public, are a very sweet memorial of her, engraven in our hearts.
 Our valuable friend Henry Hull attended our meeting,
 and held a large and satisfactory one in the evening.
 
+[.small-break]
+'''
+
 +++[+++From this date it appears that Mary Capper was not so regular as before,
 in noting down remarks; the next memorandum being an account of the yearly meeting,
 after which there is a considerable lapse.
 This continues occasionally to be the case,
 until the period when she entirely ceases to keep a journal.
 The omissions are supplied by extracts from letters, etc.]
+
+[.small-break]
+'''
 
 1812+++.+++ Fifth month 18th. The yearly meeting of ministers
 and elders was larger than for some years past;
@@ -379,10 +406,16 @@ who had a right to dispose of him, and of them.
 A returning certificate which had been ordered for him, was read and signed.
 We separated under the sense of precious fellowship.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to Katharine Capper.
 
+[.signed-section-context-open]
 Leominster, Eighth month 18th, 1812.
 
+[.salutation]
 My dear loved niece,
 
 Thy tender affection, thy unity with my poor spirit, is truly acceptable and sweet to me;
@@ -393,7 +426,10 @@ and one with another in Him! how this softens our hearts! how it
 clothes the spirit with compassion for those who are out of the
 right way! how it teaches to bear and forbear!
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Mary Capper now made her home principally at the house of her friend Mary Lewis,
 at Leominster,
@@ -401,8 +437,13 @@ and does not appear to have been engaged in much active service for some time.
 In the spring of 1814, she went to Birmingham before attending the yearly meeting.
 From Birmingham she thus writes to two of her friends.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, Third month 22nd, 1814.
 
+[.salutation]
 Dear Friends,
 
 I have thought much of you since I left,
@@ -439,9 +480,13 @@ and I would encourage you, my dear friends, to hold on a heavenly course,
 without fainting by the way; ever bearing in mind,
 that it is not by outward observation that we shall stand, but by the Grace of God.
 
+[.signed-section-closing]
 Affectionately,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Fourth month 3rd. Ann Burgess held a meeting for
 those who have joined the Society of Friends,
@@ -535,14 +580,24 @@ and bring thousands and tens of thousands up and down to cast their gifts into h
 yea to dedicate their all unto their Lord`'s service;
 and let him do what He will with them and theirs.`"
 
-The health of Mary Lewis had long been gradually giving way;
+[.small-break]
+'''
+
++++[+++The health of Mary Lewis had long been gradually giving way;
 she was affectionately nursed by her faithfully attached friend,
 who was with her to the last, and who thus wrote, on the occasion of her death,
 to some of her dear and intimate friends.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Eleventh month 28th, 1814.
 
-My dear Friends,--This day about twelve o`'clock, I was enabled to resign with calmness,
+[.salutation]
+My dear Friends,
+
+This day about twelve o`'clock, I was enabled to resign with calmness,
 the immortal spirit of the kindest friend any individual could have,
 into the hands of a faithful Creator; no more to witness her tender,
 affectionate care and attention to me.
@@ -555,6 +610,10 @@ it is therefore intended to convey the remains to Trosnant;
 the interment to be on first-day morning.
 Dear friends, farewell, I am as well as can be expected, but I want rest.
 
+[.signed-section-closing]
 Love to all our dear friends, I subscribe myself,
 
+[.signed-section-signature]
 Mary Capper.
+
+--

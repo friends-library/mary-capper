@@ -1,6 +1,8 @@
 == Chapter V.
 
-Travels during the years 1794 to 1801.--Visits at Stoke Neicington, etc.
+[.chapter-synopsis]
+* Travels during the years 1794 to 1801
+* Visits at Stoke Neicington, etc.
 
 +++[+++Mary Capper appears, from the time of her mother`'s decease,
 to have devoted herself to the service of her Divine Master;
@@ -13,6 +15,9 @@ having herself largely partaken of the conflict between flesh and spirit,
 she was often concerned to encourage the sincere-hearted,
 patiently to submit to proving seasons,
 looking for effectual help to the light and power of our Lord Jesus Christ.]
+
+[.small-break]
+'''
 
 1794+++.+++ Third month,
 8th. I set out with a minute expressive of the concurrence of my own monthly meeting,
@@ -124,7 +129,8 @@ she expressed her satisfaction in having been with them.
 The meeting concluded in awful, reverent silence,
 and we separated under humbling impressions.
 
-Journey In Wales.
+[.blurb]
+=== Journey In Wales.
 
 1794+++.+++ Eighth month, 3rd. Mary Beesley having long felt a deep concern of mind,
 to pay a visit to Friends in Wales, and in the county of Hereford, my mind was,
@@ -478,11 +484,17 @@ in a very poor cottage.
 Our minds were comforted in these lowly cots.
 We had also a time of solid retirement in spirit with Robert Whitaker and wife.
 
+[.offset]
 +++[+++Extract of a letter from Abigail Starbuck to Mary
 Capper and Mary Beesley received at Richard Brown`'s.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Milford, 17th of Ninth month, 1794.
 
+[.salutation]
 My dear Friends,
 
 We were much pleased to hear from you,
@@ -509,7 +521,10 @@ more than compensated for the little fatigue of the journey.
 We found our children well.
 With our united love to you, in which they heartily join, your affectionate friend,
 
+[.signed-section-signature]
 Abigail Starbuck.
+
+--
 
 Fourth-day.
 A very exercising time in a family; yet we had to believe that Divine love is extended,
@@ -565,10 +580,13 @@ Sixth-day.
 The few Friends met us here.
 Received letters.
 
-+++[+++Among these was one from Abigail Starbuck, of which the following is an extract.]
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Milford, 10th of Tenth month, 1794.
 
+[.salutation]
 Dear and esteemed Friend, Mary Beesley,
 
 We have been anxious to hear how you get along,
@@ -598,6 +616,8 @@ Samuel desires gratefully to acknowledge thy kindness to him;
 and Daniel presents his dear love to both his beloved friends,
 he was pleased to hear of their being at Llanidloes,
 and would be obliged by their opinion respecting the school.
+
+--
 
 Seventh-day.
 Set out for Coalbrookdale; good road and fine country; the Severn winds beautifully.
@@ -684,6 +704,7 @@ patient and faithful!
 
 14th. Favoured at Worcester meeting, with inward comfort and peace.
 
+[.offset]
 +++[+++Soon after the conclusion of this journey,
 Mary Capper went to pay a visit to her brother Jasper, at Stoke Newington,
 during which she wrote as follows:]
@@ -1000,10 +1021,16 @@ I think I feel desires for our growth in the Truth, and establishment therein.
 In the prospect of leaving, I may add, that my visit has been some help,
 strength and encouragement, to my feeble mind.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Extract of a letter from Jasper Capper to Mary Capper.
 
+[.signed-section-context-open]
 Stoke Newington, 10th of Third month, 1795.
 
+[.salutation]
 My dear Sister,
 
 I feel inclined to write to thee, though at present, I see but one sentence before me;
@@ -1018,6 +1045,8 @@ that is, so far as Doubting Castle; yet through mercy, not given over into his p
 Now and then a dawn of hope revives my soul; and having no other refuge but mercy,
 through Jesus Christ,
 who "`came into the world to save sinners,`" I endeavoured to hold fast this confidence.
+
+--
 
 No further memoranda occur till the summer of next year.
 
@@ -1171,7 +1200,6 @@ as it did not seem a time for our minds to obtain full relief.
 Eleventh month 2nd. Came to Worcester, and dined at T. Bevington`'s,
 where we met with Sarah Stephenson, Mary Jefferies, Ann Hunt and Elizabeth Bevington;
 the two former were engaged in a visit to the families of Friends in this place.
-
 In the afternoon we came to Wick, and passed the evening quietly together.
 
 8th. Mary Beesley returned her minute to the monthly meeting.
@@ -1217,12 +1245,18 @@ and found the accommodations comfortable.
 With peace of mind,
 all places and all circumstances are made more supportable than we may anticipate.
 
+[.offset]
 +++[+++While at Worcester,
 Mary Capper thus addressed her endeared friends Ann Baker and Sarah Lynes,
 who were still labouring together in the work of the ministry.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Worcester, 29th of Fourth month, 1798.
 
+[.salutation]
 Dear loved Ann and Sarah,
 
 How very often have you been the subject of our thoughts!
@@ -1239,9 +1273,13 @@ but we are ready to fear that natural strength must sink under such exertions;
 nevertheless we desire to trust in that Power that constrains, and also abilitates,
 far beyond our comprehension; so may you be directed, helped and strengthened!
 
+[.signed-section-closing]
 In unfeigned affection,
 
+[.signed-section-signature]
 Mary Capper
+
+--
 
 Seventh month 11th. Requested permission, from my monthly meeting,
 to accompany Mary Beesley in a visit to Friends of Bristol, etc.

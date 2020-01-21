@@ -1,6 +1,7 @@
 == Chapter I.
 
-Parentage, education, etc.
+[.chapter-synopsis]
+* Parentage, education, etc.
 
 Mary Capper was born on the 11th of the fourth month, 1755.
 She was the daughter of William and Rebecca Capper, of Rugeley, in Staffordshire.
@@ -31,7 +32,8 @@ Much of the account of her childhood was penned after
 she had attained the age of eighty years;
 and a more lively description cannot be given to the reader than in her own words.
 
-* * *
+[.asterism]
+'''
 
 My dear parents, +++[+++she writes,]
 accustomed their children to read the Scriptures.
@@ -67,6 +69,7 @@ and the younger children, at Rugely.
 Nursing and needlework were my proper employments, but I was fond of active play;
 out-doing my companions at ball, jumping, sliding, etc.
 
+[.offset]
 +++[+++The following extracts from a diary kept by Mary Capper, about this period,
 show the manner in which her time was chiefly occupied,
 and the unfoldings of her youthful mind.]
@@ -118,11 +121,17 @@ O! how my father`'s eye glistened with true paternal tenderness!
 That we may all unite, and strive to give joy to the hearts of our worthy parents,
 is and shall be, my constant prayer.`"
 
+[.offset]
 +++[+++The following letter was addressed to Mary Capper by her mother,
 when left on one occasion as housekeeper at Birmingham:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 April 17th, 1769.
 
+[.salutation]
 My Dear Molly,
 
 You are a good girl for writing, agreeable to promise, every week; pray continue to do so.
@@ -142,12 +151,18 @@ you have already experienced a pleasing satisfaction
 whenever you have denied yourself any amusement,
 though innocent, if it interfered with what was right and necessary to be done.
 
+[.signed-section-closing]
 Your mother,
 
+[.signed-section-signature]
 Rebecca Capper.
 
-+++[+++In adverting to these days, Mary Capper writes]
-"`I was, at times, and many times, in early life,
+--
+
+[.offset]
++++[+++In adverting to these days, Mary Capper writes:]
+
+I was, at times, and many times, in early life,
 very thoughtful as to the genuine effect of religion on the mind.
 My constitution was weak, which I have considered one among other favours;
 for my nature was volatile, and I was much left as to outward restraints; and, indeed,
@@ -200,6 +215,9 @@ for he believed me sincere, though his religious views were not in accordance wi
 
 My brother John married and settled at Rugeley,
 after which event the rest of the family went to reside at Birmingham with our parents.
+
+[.small-break]
+'''
 
 +++[+++This brings us to a new era in the domestic circle,
 to which Mary Capper makes some allusion in mentioning the
@@ -277,11 +295,19 @@ This letter, however, failed in producing the effect designed,
 and he received from his sister an answer which was very unsatisfactory to him;
 the following is extracted from his reply to it.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mary Capper, Birmingham.
 
+[.signed-section-context-open]
 London, 28th September, 1776.
 
-Dear Sister,--It is not my intention to enter into a religious controversy,
+[.salutation]
+Dear Sister,
+
+It is not my intention to enter into a religious controversy,
 or to persuade you or any one (for I have not myself
 been persuaded) into errors of judgment;
 if, as you say, I have blindly and enthusiastically fallen into them;
@@ -363,9 +389,13 @@ but to warn you with a desire to enquire after these things.
 
 In true brotherly love, being sensible of my own errors, from a very sinful neglect.
 
+[.signed-section-closing]
 Your true friend and affectionate brother,
 
+[.signed-section-signature]
 Jasper Capper.
+
+--
 
 +++[+++No remark is preserved respecting the effect of this letter on Mary Capper`'s mind,
 but it appears to have induced her to reflect very seriously upon her own condition,

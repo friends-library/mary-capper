@@ -1,9 +1,9 @@
 == Chapter II.
 
-Sojourn in France.
+[.chapter-synopsis]
+* Sojourn in France
 
-Birmingham, October 19th, 1776.
-
+Birmingham, October 19th, 1776.--
 Very busy making preparations to set out for London, in the Diligence, tomorrow morning,
 with M. and M. Bingham; the latter purposing to accompany me to Paris,
 or some other part of France, where I am going for the recovery of my health,
@@ -636,8 +636,13 @@ It may be premised that William never made much, if any,
 change in his religious observances,
 and always remained a member of the Episcopal Church.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Birmingham, September 18th, 1777.
 
+[.salutation]
 My Dear William,
 
 A complaint in my eyes still remains;
@@ -743,9 +748,12 @@ and do indeed, at this moment fear and tremble before Him.
 I had much more on my mind to say to you, but I have lost it; so conclude,
 with sincere prayer for your present and eternal welfare, your truly affectionate mother,
 
+[.signed-section-signature]
 Rebecca Capper.
 
-From this letter and from some subsequent remarks in Mary Capper`'s journal,
+--
+
++++[+++From this letter and from some subsequent remarks in Mary Capper`'s journal,
 it appears that she entered pretty fully into her brother`'s change of religious view,
 and that this had been so far made known to her parents
 as to make them hesitate about allowing her to return home.
@@ -758,6 +766,7 @@ for the purpose of silently waiting upon the Lord, that they might know his will
 and experience a renewal of their spiritual strength;
 and they were often comforted together, on these occasions.
 
+[.offset]
 Resuming the journal, Mary Capper proceeds:]
 
 September 18th. My kind friend expresses much satisfaction at my quick return.
@@ -804,7 +813,6 @@ and the tears still steal down my cheeks.
 
 25th. Arrived safely in London last night, after a tedious voyage.
 We were both very ill.
-
 This morning we landed from a small boat,
 and drove to my uncle Smallwood`'s. I had scarcely sufficient
 strength left to embrace the tenderest of mothers!
