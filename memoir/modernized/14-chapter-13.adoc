@@ -1,12 +1,13 @@
 == Chapter XIII.
 
-Death of her brothers John and James.--Reflections.--Extracts from letters, etc.,
-from 1835 to 1838.--Deep spiritual conflict.--Relief therefrom.
+[.chapter-synopsis]
+* Death of her brothers John and James
+* Reflections
+* Extracts from letters, etc., from 1835 to 1838
+* Deep spiritual conflict
+* Relief therefrom
 
-On the Fluctuation of Thoughts.
-
-Reflections, dated First month, 1835.
-
+__Reflections On the Fluctuation of Thoughts.__ First month, 1835.
 It has a little opened to my understanding,
 that as involuntary thoughts are not at our command,
 we are only responsible as we willingly cherish, and bring them into action.
@@ -21,14 +22,23 @@ we might be tempted to conclude that the great work of sanctification was comple
 and thus be lulled into a false rest, and forget, or neglect, the important injunction,
 "`Watch and pray!`"
 
-Memorandum, Third month 4th, 1835.
+[.small-break]
+'''
+
+__Memorandum.__ Third month 4th, 1835.
 This morning`'s post brought the affecting tidings,
 that my dear brother James Capper died in London; he was a dearly loved kind brother.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Birmingham, Third month 12th, 1835.
 
+[.salutation]
 My kind Friend,
 
 Your unfeigned sympathy is truly cordial to me;
@@ -65,12 +75,21 @@ O! if a spark of genuine good desire has ever been kindled,
 through so weak an instrument, the praise belongs to a higher Power.
 Farewell, my dear friend! with all whom the Father of mercies has given you.
 
+[.signed-section-closing]
 Thus subscribes your affectionate friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Fourth month 17th, 1835.
 
 The changeable weather is unfavourable to my frail tabernacle;
@@ -89,16 +108,24 @@ but in simple obedience; and through the vicissitudes of my long life,
 I have been favoured with a measure of inward tranquillity,
 a little foretaste of that peace which this world cannot give, but which is all of mercy.
 
+[.signed-section-signature]
 Mary Capper.
 
-Memorandum.
+--
+
+__Memorandum.__
 Received intelligence of the final close of my dear brother, John Capper,
 the eldest of our large family; the remaining links of the chain are now only two;
 my youngest brother and myself.
 My dear brother John died on the 26th of the fourth month, 1835.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. S.
 
+[.signed-section-context-open]
 Fifth month 9th, 1835.
 
 My often-remembered young friend, and fellow-probationer, in a land of pits and snares!
@@ -130,13 +157,22 @@ What comes to your ear, unsought, bear patiently; guard against excitement;
 wrestle in prayer, both for yourself and others, for strength, if in the right,
 still in the right to stay; if not, that heavenly Wisdom may teach the better way.
 
+[.signed-section-signature]
 Mary Capper.
 
-To. John and Sarah Grubb.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To John and Sarah Grubb.
+
+[.signed-section-context-open]
 Fifth month 15th, 1835.
 
-You dear Labourers,
+[.salutation]
+Dear Labourers,
 
 Be faithful unto death!
 There is a rest, unpolluted by the strife of words.
@@ -149,12 +185,21 @@ O! may a Redeemer`'s love and power keep you, dear friends, and every deeply pro
 tried mind, from the tender youth to the aged sojourner on this side the promised land,
 that you faint not, nor grow weary in the Lord`'s work.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. and Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Fifth month, 1835.
 
+[.salutation]
 My beloved Relatives,
 
 I contemplate you in London, with several others, as disciples,
@@ -183,8 +228,15 @@ and that is still the mercy of the present hour, I have had a belief granted me,
 that this annual gathering will, at times,
 be favoured with the overshadowing of divine love and mercy.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Seventh month, 1835.
 
 Marvellous is the condescending mercy that has brought me hitherto,
@@ -202,10 +254,18 @@ Watch and pray, lest you enter into temptation.`"
 All the wit and learning of the most learned men,
 can never equal the precepts of Scripture.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Sarah Lamley, Jr.
 
+[.signed-section-context-open]
 Birmingham, Ninth month 21st, 1835.
 
+[.salutation]
 Dear Sarah,
 
 It seems long since we had any communication.
@@ -238,12 +298,21 @@ I wish to convey, as far as expression can do it, my very dear love to your moth
 with my own soul, longs to be found at the mercy seat,
 waiting for the fulness of redeeming love and power.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To E. C.
 
+[.signed-section-context-open]
 Dale End, Ninth month 29th, 1835.
 
+[.salutation]
 Dear absent Friends,
 
 Often-times present in mental view--it is pleasant to hear of your rational enjoyments,
@@ -274,10 +343,18 @@ are very cordial, and the response is centered in that one emphatic word--Love.
 Including you all, parents and kind children, in the precious bond of union,
 I subscribe affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Fragment on Prayer; addressed to a Friend.
 
+[.signed-section-context-open]
 Eleventh month, 1835.
 
 With diffidence, as ever becomes me,
@@ -306,17 +383,26 @@ and a Spirit, better than our own, helping our infirmities!
 I allude not to any forms, but to the real, humble breathings of the soul,
 athirst for the living God.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 +++[+++On the 26th of the first month, 1836, died Sarah Lamley, of Tredington,
 after a short and suffering illness; this event was much felt by Mary Capper.
 In allusion to it, and also to a recent illness with which she had herself been tried,
 she thus writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Sarah Lamley, Jr.
 
+[.signed-section-context-open]
 Birmingham, Third month 1st, 1836.
 
+[.salutation]
 Dear Sarah,
 
 I have abundant cause for thankfulness, having been tenderly cared for in my weak state,
@@ -339,15 +425,24 @@ May your Christian mother`'s blessing rest upon her children`'s children!
 Express my love to your sister, etc.
 Farewell, my dear friend.
 
+[.signed-section-closing]
 Affectionately I subscribe,
 
+[.signed-section-signature]
 Mary Capper
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Third month 3rd, 1836.
 
-I LAMENT the separation of some promising ones;
+I lament the separation of some promising ones;
 their being driven by strange voices and tumults from attention to the still,
 small voice of the Good Shepherd.
 O! my heart pities,
@@ -360,10 +455,18 @@ of its pure, unsophisticated, gospel principles.
 The Shepherd of the sheep is indeed good.
 O! how gently He leads the simple, as the flock and the children can bear it.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Relation.
 
+[.signed-section-context-open]
 Third month 4th, 1836.
 
 The secret language and aspiration of my spirit is, O! that our youth,
@@ -415,10 +518,18 @@ among professors of religion! our own little favoured band not exempt.
 There seems a prevailing mania, a strife of words and of strange voices!
 But the Good Shepherd knows his own sheep, and they follow Him.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Birmingham, Third month 12th, 1836.
 
+[.salutation]
 My kind Friend,
 
 Little less than miraculous is the restoration of
@@ -442,10 +553,18 @@ O! my precious friend, if we were faithful to the dictates of this Spirit,
 how many snares and entanglements we should escape; and how would the bitters,
 mingled by a Sovereign hand, be sweetened!
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. and Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Fourth month 5th, 1836.
 
 The recent intelligence of your devoted kinsman James Backhouse, and his companion,
@@ -471,10 +590,18 @@ in life and in death.
 It seems to me of great importance that there should be no self-complacency,
 nor creaturely glorying, but true self-reduction, bearing the cross.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Fourth month 12th, 1836.
 
 A bountiful creator continues to allure us to love, obey and praise him.
@@ -498,12 +625,21 @@ What can be more convincing?
 Our restless wanderings arise from the neglect of watching unto prayer,
 and daily bearing the subduing cross.
 
+[.signed-section-signature]
 Mary Capper,
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Fourth month 30th, 1836.
 
+[.salutation]
 My very dear Niece,
 
 This doubtless is a time of mourning,
@@ -527,14 +663,24 @@ I am endeavouring to look beyond the cloud,
 when (if my natural day be not so prolonged) others may
 be favoured to see the Sun of Righteousness shine gloriously.
 
+[.signed-section-closing]
 I remain affectionately, your aunt,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John and Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Fifth month 13th, 1836.
 
+[.salutation]
 My beloved Friends,
 
 Shall I once more greet you with the language of affectionate encouragement?
@@ -585,10 +731,18 @@ in the Lord`'s vineyard.
 Your work, my precious friends, may not be finished; this glorious rest awaits you,
 and every true labourer, so believes,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Sarah Grubb to Mary Capper.
 
+[.salutation]
 My Dearly Beloved Friend,
 
 This day your precious, sweet letter, was handed me.
@@ -631,14 +785,24 @@ Amen!
 
 My husband sends you much unfeigned christian love, in which I tenderly unite, and remain
 
+[.signed-section-closing]
 Your ever attached friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Watkin.
 
+[.signed-section-context-open]
 Birmingham, Seventh month 1st, 1836.
 
+[.salutation]
 My very dear Friend,
 
 It sometimes seems marvellous in my view that our natural life is lengthened for weeks,
@@ -668,25 +832,45 @@ and I am so far from being dissatisfied, that in my most favoured seasons,
 I daily contemplate it as a mercy.
 Farewell affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From S. K. a child five years old, to Mary Capper.
 
+[.salutation]
 My dear Friend,
 
 I should like to hear you talk to me about heaven,
 where dear little children go when they are good; and if you will be pleased to see me,
 I shall be glad to see you; please, when will it be a suitable time?
 
+[.signed-section-closing]
 I love you, and am your friend,
 
+[.signed-section-signature]
 S+++.+++ K.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Answer from Mary Capper
 
+[.signed-section-context-open]
 Dale End, Eighth month 14th, 1836.
 
-Dear little Friend,--I am quite pleased with your little letter,
+[.salutation]
+Dear little Friend,
+
+I am quite pleased with your little letter,
 and I am glad that you love me, for I have much love for children;
 and I am glad when they wish to be good, and to know something about that Saviour, Jesus,
 of whom we read in the Bible.
@@ -704,14 +888,24 @@ and blessed forever.
 That you, dear S. may be one of those who are eternally blessed,
 is the affectionate desire of
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To C. B. C.
 
+[.signed-section-context-open]
 Birmingham, Ninth month 21st, 1836.
 
+[.salutation]
 My kind and dear Friend,
 
 Your affectionate communication was, as ever, very cordially accepted.
@@ -737,10 +931,18 @@ That I may really be a humble waiter, in patience, at my Saviour`'s feet,
 is daily the petition of my soul, and that I may tenderly feel for,
 and with my conflicting friends.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Tenth month 21st, 1836.
 
 If it be from the Lord,
@@ -756,10 +958,18 @@ To bear a part in the sufferings and afflictions
 of the true disciples of a crucified Saviour,
 seems indeed a privilege.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 15th, 1836.
 
 My dear brother James used to say of his wife, that she remained as a bruised reed;
@@ -774,9 +984,12 @@ it excites the strong cry at the mercy-seat,
 that I may not be permitted to bring sorrow or dismay upon the Christian believers,
 nor dishonour upon the glorious cause of the Redeemer.
 
+[.signed-section-signature]
 Mary Capper.
 
-About this period Mary Capper had to pass through much distress of mind,
+--
+
++++[+++About this period Mary Capper had to pass through much distress of mind,
 in consequence of the departure of some whom she dearly loved,
 from that path of simplicity and self-denial into which her own feet had been turned,
 in early life, and which she still considered "`the more excellent way.`"
@@ -787,10 +1000,15 @@ but He who saw the integrity of her heart,
 and who watched over her with a Father`'s love, was pleased, after a season of proving,
 to remove the burden, and to grant her a renewal of faith and of confidence,
 enabling her again to go on her way rejoicing.
-She thus describes her state in a letter.
+She thus describes her state in a letter.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Third month 15th, 1837.
 
 I have abundant cause to take fresh courage and be thankful; for a consoling hope,
@@ -807,8 +1025,15 @@ valued handmaiden reads portions of Scripture to me; the day is spent mostly in 
 and closes with reading a chapter or two in the Bible,
 when I am early ready and thankful to retire.
 
+--
+
+[.offset]
 +++[+++About the same date, she thus writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Friend.
 
 You would no doubt hear, from time to time, of the state of my health as precarious;
@@ -820,11 +1045,21 @@ a plain path in the strait and narrow way seems set before me;
 turning neither to the right nor to the left, to hear what others may say,
 but keeping in view what first brought my wandering feet from the broad way.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John and Sarah Grubb.
 
+[.signed-section-context-open]
 Fifth month, 1837.
 
-You dear Labourers,--As ambassadors it may be, often-times in bonds,
+[.salutation]
+Dear Labourers,
+
+As ambassadors it may be, often-times in bonds,
 it is in my heart once more to attempt to greet you, in a measure of that love which,
 I cherish the hope, is a badge of discipleship.
 
@@ -848,12 +1083,21 @@ as a reconciled God.
 Divine compassion can alone begin, carry on, and perfect his own glorious work;
 my impotence and ignorance keep me, as I think, at the Saviour`'s feet.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Fifth month 29th, 1837.
 
+[.salutation]
 My beloved Niece,
 
 Morning by morning my thoughts seem to bring to my view
@@ -866,13 +1110,21 @@ that we may know the effect of sanctifying Power,
 while passing through this time of probation.
 My heart seems to press after the experience of a prepared state for a prepared place.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Twelfth month 14th, 1837.
 
-Cough and debility keep me much confined, though ]
+Cough and debility keep me much confined, though I
 am favoured to attend most of our religious meetings; and with the ability given,
 I think my heart has united with those who are exercised
 in desire that we may experience a revival of spirituality,
@@ -884,14 +1136,24 @@ My dear niece, may Israel`'s Shepherd keep you, and all who are dear to you,
 with my own soul, nigh to the mercy-seat,
 and finally complete his own glorious work of salvation!
 
+[.signed-section-closing]
 Your aunt,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To B. and C. C.
 
+[.signed-section-context-open]
 Second month 22nd, 1838.
 
+[.salutation]
 Much loved Friends,
 
 There never was a day in which I so fully entered into sympathy
@@ -909,14 +1171,24 @@ With you, my precious friends, my desire and prayer is, to look,
 beyond all doubts and fears, to a gracious Redeemer, whose power is above all;
 for we may feelingly adopt the language, "`This is mine infirmity!`"
 
+[.signed-section-closing]
 Very affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To +++_______+++,
 
+[.signed-section-context-open]
 Birmingham, Second month 29th, 1838.
 
+[.salutation]
 My fellow-probationer,
 
 For whom I continue to feel an affectionate Christian interest.
@@ -963,12 +1235,21 @@ taking a retrospective view of the way in which I have been kept and led hithert
 With an earnest desire for the welfare of souls, for you and your dear family,
 I remain affectionately your friend,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John and Sarah Grubb.
 
+[.signed-section-context-open]
 Birmingham, Fifth month 19th, 1838.
 
+[.salutation]
 My precious Friends,
 
 Although my powers of communication are at a low ebb, I would most willingly,
@@ -1005,15 +1286,27 @@ With all my infirmities, the good Spirit is not wholly withdrawn,
 and I wrestle in prayer for resignation, faith and patience.
 Accept my imperfect offering, in the love I bear to you and those most dear to you.
 
+[.signed-section-closing]
 Affectionately,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Grubb to Mary Capper.
 
+[.signed-section-context-open]
 Clapham, Fifth month, 1838.
 
-Dearly beloved Friend,--Your sweet and precious letter has done me good.
+[.salutation]
+Dearly beloved Friend,
+
+Your sweet and precious letter has done me good.
 O! how delightful it is to see that some hold on their way, in this day of backsliding.
 This yearly meeting convinces us that we are still, too generally, a revolting people,
 and my portion of labour has been much in the line of laying open our condition,
@@ -1055,12 +1348,21 @@ as well as for him.
 I may now take leave of you, my very dear friend, and remain, I humbly trust,
 in the fellowship of the gospel, and also a partaker with you in tribulation.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Sarah Grubb.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Capper to Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Fifth month 22nd, 1838.
 
 My spirit does hunger and thirst for an increase of holiness,--for complete sanctification.
@@ -1071,8 +1373,15 @@ to proclaim that our cup runs over with heavenly consolation;
 nevertheless my earnest prayer is, that I may be kept from turning aside,
 and that mercy may crown all with the everlasting anthem of thanksgiving.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Sixth month 10th, 1838.
 
 I have had satisfactory reports of the yearly meeting,
@@ -1088,13 +1397,22 @@ I have now had the gratification of seeing my dear nephew and niece Mounsey,
 and I hope we were mutually refreshed with something better
 than the wine of the best grapes of Canaan.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Sarah Lamley
 
+[.signed-section-context-open]
 Birmingham, Sixth month 22nd, 1838.
 
-Dear S, L.,
+[.salutation]
+Dear S. L.,
 
 Although a considerable lapse of time may occur between our communications,
 I am satisfied it enters not our thoughts, that we are forgotten by each other.
@@ -1122,8 +1440,15 @@ The savour of this dear friend`'s spirit seems to remain as precious odour sprea
 I understand that dear, aged William Rickman was a faithful testimony bearer,
 in London this year, being upwards of ninety-two.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
 Most likely you have been informed that your dear brother is in London,
@@ -1141,9 +1466,13 @@ to acknowledge the tender mercy of our Heavenly Father,
 which has kept me, from my youth to this day,
 from following on in the broad way that leads to destruction.
 For this, his revealed power, and redeeming love, be rendered glory and praise!
+
+[.signed-section-signature]
 Mary Capper.
 
-In explanation of the foregoing remark, it may be proper to observe,
+--
+
++++[+++In explanation of the foregoing remark, it may be proper to observe,
 that Mary Capper entrusted her journals, etc. to the editor,
 some years before her decease;
 and then supplied some of the earlier pages of this memoir;
@@ -1154,10 +1483,15 @@ is sufficiently manifest in these pages,
 to add one more to the many inducements which are held forth,
 to follow in the footsteps of the flock of Christ,--even
 of those who obey the voice of the good Shepherd,
-and walk in his paths.
+and walk in his paths.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Tenth month 25th, 1838.
 
 In my eighty-fourth year, I seem but as a child;
@@ -1180,8 +1514,15 @@ longs and presses after the knowledge of God our Saviour;
 whom truly to know is life eternal; and as a weaned child I am, at times, quieted.
 May I be thankful for countless favours daily bestowed!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Twelfth month 4th, 1838.
 
 As the end of my lengthened life draws nigh, my hope of salvation is still in the Saviour.
@@ -1204,4 +1545,7 @@ that all may be induced to press after holiness and godly simplicity.
 It is well to be stirred up to enter into self-examination.
 I think my confidence was somewhat renewed by the visit of four friends to myself.
 
+[.signed-section-signature]
 Mary Capper.
+
+--

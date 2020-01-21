@@ -1,12 +1,20 @@
 == Chapter XIV.
 
-Extracts from, her last letters,
-and from some of those of her friends respecting her.--Last illness.--Death.
+[.chapter-synopsis]
+* Extracts from, her last letters, and from some of those of her friends respecting her
+* Last illness
+* Death
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To J. and Katharine Backhouse
 
+[.signed-section-context-open]
 Birlingham, First month 21st, 1839.
 
+[.salutation]
 My very dear Relatives,
 
 From day to day I think of your kindness toward me,
@@ -21,10 +29,18 @@ There is much to humble us, and to mourn over;
 yet there is encouragement for the faithful.
 Press forward!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To T. and M. S.
 
+[.signed-section-context-open]
 Dale End, Third month 6th, 1839.
 
+[.salutation]
 My very kind Friends,
 
 I cannot rest satisfied without attempting some acknowledgment
@@ -44,10 +60,20 @@ rest which is prepared for the prepared soul.
 Accept, dear friends, my affectionate goodwill,
 with my best desires for your present and eternal blessedness,
 in the path of obedience to the sanctifying power of a Saviour.
-With a very grateful sense of your liberality towards me, I subscribe, Mary Capper.
+With a very grateful sense of your liberality towards me, I subscribe,
 
+[.signed-section-signature]
+Mary Capper.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Tenth month 4th, 1839.
 
 I have just parted with my endeared niece.
@@ -75,12 +101,21 @@ I am daily conscious of diminishing powers, but continue to wrestle for patience
 and in unison with, or in answer to, the desires and prayers of my endeared relations,
 I experience the Comforter to be my help and my shield.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To C. B. C.
 
+[.signed-section-context-open]
 Eleventh month 3rd, 1839.
 
+[.salutation]
 My very dear Friend,
 
 There is a little, all-important word of four letters,
@@ -96,12 +131,21 @@ but the place of duty is the place of safety, and will be blessed; so, my dear f
 we must not disturb ourselves, but rather be thankful.
 In much affection,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Twelfth month 10th, 1839.
 
+[.salutation]
 My very dear Niece,
 
 Thy letters bring a grateful sweetness with them;
@@ -135,12 +179,21 @@ and I do petition for patient submission to whatever may be brought upon me,
 either by the conscious increase of mental and bodily weakness,
 or in a measure of Christian sympathy with my fellow travellers Zionward.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, First month 18th, 1840.
 
+[.salutation]
 My affectionately kind Niece,
 
 I do desire gratefully to acknowledge the mercy that
@@ -153,7 +206,10 @@ but when the cheering sun-beams break through the mist, I almost long to be in t
 and again to be privileged to meet my fellow-Christian professors,
 and unite in waiting upon the Lord.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 +++[+++Mary Capper did not again rise much out of the state of feebleness which she here describes;
 but she continued to enjoy, during the remaining years of her protracted life,
@@ -170,9 +226,13 @@ and continued to manifest her interest in the welfare of others,
 as the following extracts from her letters will testify.
 She thus addressed her niece Katharine Backhouse during the yearly meeting:]
 
-Birmingham.
-Fifth month 22nd, 1840.
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Birmingham, Fifth month 22nd, 1840.
+
+[.salutation]
 My endeared Niece,
 
 My thoughts, with some of the best desires that I am favoured to feel in my solitude,
@@ -186,10 +246,18 @@ I hear thy dear brother is liberated to return home
 after his arduous engagement in the environs of London.
 I think it a privilege to feel tender sympathy with such labourers.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 28th. 1840.
 
+[.salutation]
 My affectionate Niece,
 
 In reply to thy kind inquiries, my general health is better than it was,
@@ -203,10 +271,18 @@ I am not so painfully sensible of the state of the atmosphere as some afflicted 
 who find great difficulty in breathing.
 O! what tender dealings towards me, a poor helpless creature.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, First month 9th, 1841.
 
+[.salutation]
 My beloved Niece,
 
 Mercy sees fit to add another opening year to my long life.
@@ -217,10 +293,18 @@ but from very weakness; but with gratitude may I express it,
 enduring Goodness clothed my spirit with a lowly calm.
 What condescending tenderness and compassion!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Seventh month 20th, 1841.
 
+[.salutation]
 My dear Niece and Relations,
 
 I would convey as impressively as I can, my affectionate thoughts toward you,
@@ -234,10 +318,18 @@ I feel an affectionate interest in your dear daughter`'s present and future pros
 with the consoling belief that He who has been her
 help and shield will continue so to be.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Birmingham, Ninth month 14th, 1841.
 
+[.salutation]
 My beloved Niece,
 
 The affecting intelligence of my dear nephew`'s sudden illness is deeply impressive,
@@ -252,14 +344,24 @@ Shepherd of the sheep is extending the crook of his love,
 to gather, and to prepare the immortal spirit for a place in the heavenly kingdom,
 to be forever with the Lord.
 
+[.signed-section-closing]
 With sincere affection, I subscribe,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From James Backhouse to J. and Katharine Backhouse
 
+[.signed-section-context-open]
 York, Second month 18th, 1842
 
+[.salutation]
 My dear Cousins,
 
 I do not recollect, that in my last, I mentioned your aged relative Mary Capper,
@@ -279,12 +381,19 @@ to those experiences of Christianity to which true Friends through faith have at
 I thought this little notice of your honourable relation was due to you;
 and should I see her no more, to her memory.
 
+[.signed-section-closing]
 Your affectionate cousin,
 
+[.signed-section-signature]
 James Backhouse.
 
-On a subsequent occasion, James Backhouse, in writing of a call made on Mary Capper,
+--
+
++++[+++On a subsequent occasion, James Backhouse, in writing of a call made on Mary Capper,
 soon after his return from his labours abroad, makes the following observations:]
+
+[.embedded-content-document.letter]
+--
 
 "`In the course of conversation, she informed me,
 that she had adopted the principles of total abstinence as regards intoxicating liquors;
@@ -315,17 +424,25 @@ And I believe that her example in this respect,
 as well as her Christian practice exhibited in a great variety of other points,
 had a beneficial influence on many.
 
+--
+
 +++[+++Mary Capper, about this time, began to feel almost unequal to use her pen,
 in order to cheer and animate her friends to persevere in their Christian race;
 so that while her interest in the best welfare of all continued unabated,
 she could no longer testify it by her lively epistles.
 The following is believed to be one of the last that she was able to write;
-it was addressed:
+it was addressed:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To her Niece Katharine Backhouse
 
+[.signed-section-context-open]
 Birmingham, Ninth month 16th, 1842.
 
+[.salutation]
 My beloved Niece,
 
 Gratitude constrains me again to attempt to acknowledge
@@ -338,7 +455,10 @@ which is a real trial; though I know I am not alone in trial, as you, my dear re
 can testify, in your deep sorrows.
 Your affectionate aunt,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 +++[+++From this time to the end of her days, she was most affectionately cared for,
 as she had long been, by the family of Richard Cadbury,
@@ -350,11 +470,16 @@ will give a better idea of the manner in which the remainder of her life glided 
 than any other outline could do, and will doubtless be acceptable to the reader,
 who may have, thus far, traced her steps.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From E. Cadbury to Katharine Backhouse
 
+[.signed-section-context-open]
 Edgbaston, Fourth month 20th, 1843.
 
-I have Still to give thee as favourable an account of thy dear aunt,
+I have still to give thee as favourable an account of thy dear aunt,
 as at her time of life, can be expected.
 Last week was our monthly meeting, the whole of which she sat,
 and seemed less fatigued than some of her younger sisters.
@@ -365,10 +490,18 @@ Thy letter deeply interested her, respecting the proceedings of some dear friend
 she truly rejoices in the enlargement of Zion`'s borders,
 and in the prosperity of her helpers.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From R. F. to Katharine Backhouse
 
+[.signed-section-context-open]
 York, Eighth month 9th. 1843.
 
+[.salutation]
 My dear Cousin,
 
 We called upon thy dear aunt, who appeared feeble, but in comfortable health;
@@ -382,11 +515,21 @@ that she was endeavouring patiently to wait her appointed time; and that,
 when her Master called, she thought she should thankfully receive the summons.
 It was an interview that we shall long remember.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 E+++.+++ Cadbury to Katharine Backhouse
 
+[.signed-section-context-open]
 Edgbaston, Second month 5th, 1844.
 
-My dear Cousin,--Thy dear aunt was at meeting yesterday morning, also on fourth-day,
+[.salutation]
+My dear Cousin,
+
+Thy dear aunt was at meeting yesterday morning, also on fourth-day,
 when she particularly wished to sit with those who
 had not gone to our quarterly meeting at Coventry;
 her company was very acceptable, and she expressed a few words,
@@ -399,6 +542,8 @@ As she was about to leave my son`'s yesterday,
 the three little ones followed her for the parting kiss, pulling her gown,
 as described by Goldsmith, "`To share the good man`'s smile.`"
 Her servant continues as attentive as ever, and I believe she has every comfort.
+
+--
 
 +++[+++Mary Capper continued much in the same state during the remaining months of the year,
 and bore the winter`'s cold quite as well as her friends had anticipated,

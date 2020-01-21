@@ -1,11 +1,19 @@
 == Chapter X.
 
-Services in and about London, in the years 1823 and 1824.--Letters, etc.
+[.chapter-synopsis]
+* Services in and about London, in the years 1823 and 1824.
+* Letters, etc.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To K. C.
 
+[.signed-section-context-open]
 Birmingham, Second month 10th, 1823.
 
+[.salutation]
 My dear Niece,
 
 No change of circumstances will, I hope,
@@ -28,7 +36,10 @@ Close heart provings strengthen the bond of true union.
 I love those who can calmly endure tribulation or conflict,
 best known to their own hearts.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Fourth month 9th, 1823.
 Mentioned at our monthly meeting at Stourbridge,
@@ -36,8 +47,13 @@ a prospect of attending the yearly meeting,
 and of some religious service in and about the city of London.
 A certificate of unity was granted.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fourth month 17th, 1823.
 
+[.salutation]
 Dear M. S.,
 
 I have been concerned to hear of the sickness of thy dear children and servants;
@@ -67,12 +83,21 @@ at this day as in the earlier periods of my life.
 
 May it be well with thee, is the affectionate desire of thy friend and fellow-probationer.
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Cadbury
 
+[.signed-section-context-open]
 Warwick, Fourth month 25th, 1823.
 
+[.salutation]
 My dear Friends,
 
 I think it will gratify your affectionate solicitude
@@ -97,13 +122,19 @@ and thus it differs widely from worldly sorrow, Jesus died for sinners;
 to heal their wounds; to seal their redemption I Farewell, my dear friends;
 may your peace be sure; Your friend,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Fifth month 7th. The monthly meeting at Warwick was a time of precious union of spirit;
 a sweet sense of Divine love was felt among us, in which there is true fellowship.
 
 9th. I left my dear friends under a degree of depression,
 in the prospect of a long separation.
+
+[.small-break]
+'''
 
 +++[+++This visit to London and its neighbourhood was attended
 with many trials to her affectionate feelings,
@@ -114,6 +145,9 @@ so that it was evident that she often felt as one stripped and alone;
 yet the desire to cherish a thankful spirit, enabled her often to be cheerful;
 and the watchful frame of her mind was instructive to those where she sojourned,
 as she endeavoured, from place to place, to do her Master`'s will.]
+
+[.small-break]
+'''
 
 19th. Reached London on the 14th, and found my dear eldest brother in a weak state.
 Passed some days with him, and am now with my nieces, who are in sorrow,
@@ -323,10 +357,16 @@ Some were absent, on the account of the death of Mary Dudley; thus are we stripp
 from time to time!
 Came to Clapham.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Clapham, Tenth month 6th, 1823.
 
+[.salutation]
 My dear Friend,
 
 Thy love manifested in thy letter was never more acceptable.
@@ -350,9 +390,13 @@ until He please.`"
 It is consoling that I feel assured thou understandest this,
 and a great deal more than this, without my being more explicit.
 
+[.signed-section-closing]
 In tender love subscribes thy friend,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Tenth month 6th. Dined with Thomas Brewster;
 a friend in whose house I stayed a few weeks many years back, at Woodbridge,
@@ -490,10 +534,16 @@ against the Babylonish mixtures, in which, as a people, we are mournfully involv
 at this day.
 We have faithful testimony bearers.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 London, Twelfth month 30th, 1823.
 
+[.salutation]
 My endeared Friend,
 
 How fares it with thee?
@@ -511,14 +561,24 @@ which is yet stretching forth the Shepherd`'s crook,
 to gather the wanderers to the one true fold.
 Farewell, my precious friend.
 
-Thy attached
+[.signed-section-closing]
+Thy attached,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 London, First month 2nd, 1824.
 
+[.salutation]
 My beloved Friend,
 
 Thy affectionate salutation reached me, after I had dispatched my last to thee.
@@ -540,7 +600,10 @@ I dare not name a time for quitting this vicinity; when it arrives,
 it will be hailed as a favour.
 Thine,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 First month 1824.
 I am now favoured to partake of a peaceful calm,
@@ -771,10 +834,16 @@ far from enjoying domestic happiness.
 May such as are more favoured thankfully estimate their own privileges,
 and contribute to the instruction of others!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Clapham, Fourth month 17th, 1824.
 
+[.salutation]
 My beloved Friend,
 
 I send some extracts from letters of Hannah Kilham, etc.
@@ -798,7 +867,10 @@ that I may maintain the watch against the cruel enemy.
 Farewell, affectionately, my dear friend.
 Thine,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 17th. It renewedly impresses my mind,
 that when a family meet together in health and safety,
@@ -921,10 +993,16 @@ purity of that life which is hid with Christ in God.
 I think I felt the awful import of the subject,
 and a sincere desire that I might not exceed in words.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 London, Sixth month 10th, 1824.
 
+[.salutation]
 My very precious Friend,
 
 I have often thought, since separated from thee, and thy dear sister Lamley,
@@ -938,7 +1016,10 @@ is in degree, dispersed, and a renewed dawn of consolation and of confidence ari
 That Divine Power which delivereth my life from destruction, again gently breaks forth.
 I note it with reverent gratitude.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Sixth month 11th. Came to the house of my dear brother John,
 where I think of remaining a short time;
@@ -983,10 +1064,16 @@ and travelled about twenty-four miles, to W. L.`'s delightful habitation,
 near Berkhamstead.
 My mind is in a low, yet calm state; with serious recollection of affectionate relatives, etc.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Sixth month 23rd, 1824,
 
+[.salutation]
 My dear Friend,
 
 Yesterday I really turned my back upon the great city of London,
@@ -1008,7 +1095,10 @@ and desire no higher joy than the peaceful assurance that the precious Truth,
 as it is in Jesus, has in no way suffered through me.
 Very affectionately,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 28th. Came to Banbury, where I was cordially received by J. and M. Gillett,
 who have removed from Shipstone.
@@ -1022,11 +1112,19 @@ Dined at dear Sarah Lamley`'s, at Tredington, and proceeded to Warwick,
 where I enjoyed the long desired gratification of seeing my very dear
 Christian friend and fellow traveller in this probationary state.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Richard and Elizabeth Cadbury
 
+[.signed-section-context-open]
 Warwick, Seventh month 3rd, 1824.
 
-My dear Friends,--I was safely conveyed hither on fourth-day,
+[.salutation]
+My dear Friends,
+
+I was safely conveyed hither on fourth-day,
 and dear H. E. received me with cordial affection.
 She is looking worn and poorly; her dear sister, R. Lamley, is in a weak state,
 though somewhat revived.
@@ -1059,9 +1157,13 @@ in the mercy of God in Christ Jesus,
 all will be well; and in the end, life, light and glory will arise and shine forever!
 Farewell, dear friends.
 
+[.signed-section-closing]
 Your affectionate friend and fellow-sojourner,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Warwick, seventh month 11th. First-day, Many days have now passed over,
 in the sweet enjoyment of one another`'s company, as a little social band.
@@ -1098,10 +1200,16 @@ reconciled Father.
 O! merciful condescension;
 with which no earthly possession or gratification can be compared.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hannah Evans.
 
+[.signed-section-context-open]
 Dale End, Seventh month 29th, 1824.
 
+[.salutation]
 My very kind Friend,
 
 Thy last communication has been cheering to me;
@@ -1120,14 +1228,24 @@ with the expression of the animating hope that she
 will be helped to hold on in well doing.
 I remember the poor female prisoners with very tender feeling.
 
+[.signed-section-closing]
 Very affectionately, I subscribe,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To R. and S.
 
+[.signed-section-context-open]
 Eleventh month 19th, 1824.
 
+[.salutation]
 My kind young Friends,
 
 While I decorated my windows and little apartment with the
@@ -1149,12 +1267,21 @@ Accept my very affectionate acknowledgment, and my heart-felt desire,
 that lowliness of of mind, sweet peace, and assurance forever may crown all.
 With tenderness and love, I subscribe,
 
+[.signed-section-signature]
 Mary Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To M. S.
 
+[.signed-section-context-open]
 Birmingham, Eleventh month 29th, 1824.
 
+[.salutation]
 My long known and valued Friend,
 
 Had thou and thy dear connections been much less in
@@ -1182,8 +1309,10 @@ When, or if ever, I may again fill the well-remembered corner chair, time must u
 as yet I have no glimpse of it; nevertheless my love remains undiminished.
 In tender affection,
 
+[.signed-section-signature]
 Mary Capper.
 
+[.postscript]
 P+++.+++ S. I wish to have my Christian love expressed
 to+++_______+++. It is a great mercy to be kept,
 by the power of God, steadfast and without wavering, as to the object of our faith,
@@ -1192,3 +1321,5 @@ and sometimes to witness Grace to abound, and in all things to be instructed,
 to be humble, contrited, thoroughly sensible of our dependent state, at all times,
 and on all occasions.
 This is mercy! all mercy!
+
+--

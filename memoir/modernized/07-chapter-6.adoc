@@ -1,7 +1,9 @@
 == Chapter VI.
 
-Marriage of her friend Mary Beesley in 1803--Removal into Monmouthshire,
-etc.--Death of James Lewis, 1810.
+[.chapter-synopsis]
+* Marriage of her friend Mary Beesley in 1803
+* Removal into Monmouthshire, etc.
+* Death of James Lewis, 1810
 
 1802+++.+++ Third month 10th. At our monthly meeting obtained leave to unite with Mary Beesley,
 and Ann Pumphrey in visiting the families of Friends at Worcester, etc.
@@ -198,10 +200,16 @@ Mary Lloyd is her companion.
 19th. Received an account, while at Worcester,
 of the death of the wife of my dear brother John Capper.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Sarah Lynes.
 
+[.signed-section-context-open]
 Worcester, Second month 16th, 1803.
 
+[.salutation]
 Dear Sarah,
 
 Day after day you have been brought to my remembrance, with very tender love;
@@ -231,9 +239,13 @@ comes close to me.
 Very sincere has been her desire to move rightly.
 It is proposed to solemnize the marriage in the Fifth month.
 
+[.signed-section-closing]
 In assured affection,
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 Third month 6th. First-day.
 We had the company at meeting, of our aged, honourable friend, Mary Ridgway,
@@ -509,7 +521,7 @@ and I thought favoured with the overshadowing of that invisible
 Power which would gather the mind from the lo! heres,
 and lo! theres, and stay the thoughts and wandering imaginations,
 bringing all into captivity.
-I was`' thankful to feel this, but a fear possessed my mind, in respect of some,
+I was thankful to feel this, but a fear possessed my mind, in respect of some,
 that there was too great an anxiety after worldly possessions.
 It is possible to pursue lawful things too eagerly;
 so as to be unfitted for higher and more noble attainments.
@@ -905,11 +917,17 @@ a favoured time, which ended in a stillness that excluded and exceeded all words
 I was afterwards confined, for many weeks,
 with great weakness of body and the loss of my voice.
 
-During this time of prostration, she wrote as follows,
-to her affectionate friend Elizabeth Cadbury.
+[.offset]
++++[+++During this time of prostration, she wrote as follows,
+to her affectionate friend Elizabeth Cadbury.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Stoke Newington, Seventh month, 1806.
 
+[.salutation]
 Dear Friend,
 
 Very grateful has been your kind sympathy.
@@ -942,7 +960,10 @@ that they may order their ways aright.
 
 Accept my affectionate good-will, flowing to you and your tender children.
 
+[.signed-section-signature]
 Mary Capper.
+
+--
 
 When I was sufficiently restored to travel, Mary Harding accompanied me to Trosnant,
 where I was, as usual, well cared for, and am stronger,
@@ -952,12 +973,19 @@ James Lewis is in a very debilitated state;
 but we have some seasons of sweet consolation, and spiritual refreshment;
 and are encouraged not to faint in time of trouble.
 
-The two succeeding letters contain some account of the illness and death of Mary Knowles.
+[.offset]
++++[+++The two succeeding letters contain some account of the illness and death of Mary Knowles.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Jasper Capper to his sister Mary Capper.
 
+[.signed-section-context-open]
 Stoke Newington, First month 22nd, 1807.
 
+[.salutation]
 My dear sister Mary,
 
 I have been, during a portion of this day,
@@ -978,14 +1006,25 @@ for she has been at hand and ready to afford her personal aid,
 as well as her valuable company.
 
 The attention of Mary Knowles`'s son has been very commendable.
+
+[.signed-section-closing]
 Your affectionate brother,
 
+[.signed-section-signature]
 Jasper Capper.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anne Capper to Mary Capper.
 
+[.signed-section-context-open]
 Paradise Row, Second month 9th, 1807.
 
+[.salutation]
 My dear Sister,
 
 Doubtless you have heard of the death of our poor dear Mary Knowles.
@@ -1006,6 +1045,8 @@ Early in the morning the nurse heard her say, "`Lord help me to pray;
 I cannot of myself;`" these were her last words.
 I trust she found forgiveness and everlasting mercy, for Jesus sake.
 
+--
+
 1807+++.+++ Fourth month.
 We attended the general meeting at Brecon, which was a time of instruction,
 I afterwards accompanied John Harford and his sisters, on a visit to Job Thomas;
@@ -1024,10 +1065,16 @@ Tenth month 14th. I informed the monthly meeting that I expect to winter in Monm
 This I mentioned for my own satisfaction, as I have ever been desirous,
 not to act contrary to the judgment of my friends.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Gurney Bevan to Mary Capper.
 
+[.signed-section-context-open]
 Catherine Hill, near Worcester, Tenth month 21st, 1807.
 
+[.salutation]
 Dear Mary,
 
 We finished our visit to this quarterly meeting yesterday evening.
@@ -1052,9 +1099,13 @@ He put me in mind of the apostle`'s words, "`Though now, if need be,
 you are in heaviness, through manifold temptations,`" etc.
 May be it is a cloud permitted to make the glory to be revealed more glorious.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ G. Bevan.
+
+--
 
 Tenth month 30th. My sister Tibbatts and I came to Worcester,
 and were kindly received at Sarah Beesley`'s. Mary Naftel being here,
@@ -1121,10 +1172,16 @@ James Lewis is very weak in body, but his mind is clothed with love.
 I thought I never felt more satisfaction and comfort in returning here;
 all seemed pleasant and peaceful.
 
-To Sarah Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To Sarah (Lynes) Grubb.
+
+[.signed-section-context-open]
 Trosnant, Eighth month 16th, 1808.
 
+[.salutation]
 Dear Friend,
 
 Although it is a very long time since we had any
@@ -1153,7 +1210,10 @@ to be good, and to be thankful.
 Dear Ann! how sweet is the remembrance of her!
 With unfeigned affection, I subscribe,
 
+[.signed-section-signature]
 M+++.+++ Capper.
+
+--
 
 Eighth month 17th. Martha Routh came to stay a few days, which was very pleasant to us.
 
