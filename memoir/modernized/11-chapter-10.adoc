@@ -1313,6 +1313,8 @@ In tender affection,
 Mary Capper.
 
 [.postscript]
+====
+
 P+++.+++ S. I wish to have my Christian love expressed
 to+++_______+++. It is a great mercy to be kept,
 by the power of God, steadfast and without wavering, as to the object of our faith,
@@ -1321,5 +1323,7 @@ and sometimes to witness Grace to abound, and in all things to be instructed,
 to be humble, contrited, thoroughly sensible of our dependent state, at all times,
 and on all occasions.
 This is mercy! all mercy!
+
+====
 
 --
