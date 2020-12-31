@@ -592,7 +592,7 @@ To C. B. C.
 [.signed-section-context-open]
 Dudley, Eleventh month 4th, 1829.
 
-The report from your dear parents is truly acceptable; the retrospect of years 2;one by,
+The report from your dear parents is truly acceptable; the retrospect of years gone by,
 when, in our youthful vigour, we joyed together,
 and exchanged lively tokens of affection, seems to touch a tender chord yet in tune,
 and raises tears; not tears of murmur or regret, ah no! but of grateful recollection,
@@ -1274,8 +1274,8 @@ I am one of those who mark the boasted "`march of intellect`" with a jealous fea
 The refinements of our day seem, in my view,
 to draw the mind from under the cross of Christ.
 According to my observation, we are not the plain, unfashionable people that,
-if faithful,
-we should be we are too generally intermingled with the manners and maxims of the times.
+if faithful, we should be.
+We are too generally intermingled with the manners and maxims of the times.
 Everlasting Mercy can yet turn and overturn, and settle a faithful people.
 
 [.signed-section-closing]
